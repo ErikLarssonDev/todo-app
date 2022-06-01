@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Notes from tutorial
+Shift + Option + F => Indents code
+
+impt => import PropTypes from 'prop-types'
+
+"rafce" to create the starter boilerplate on a component
+
+npx serve -s build -p 8000 => Serves the build on port 8000
